@@ -3,7 +3,7 @@
 
 function Slider() {
   return (
-    <div>Slider</div>
+    <div></div>
   )
 }
 

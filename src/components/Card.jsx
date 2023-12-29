@@ -1,4 +1,4 @@
-import FadeUpComponent from "./Script";
+import FadeUpComponent from "./FadeUpComponenet";
 
 
 function Card() {
